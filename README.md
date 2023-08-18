@@ -1,4 +1,4 @@
 # counterfit
-## Diplomado de Big Data
+## Diplomado de IOT
 ## Facultad Politecnica / UNA
 ### Alumno: Elias Gaspar Cabrera Pereira
