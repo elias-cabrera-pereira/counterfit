@@ -1,4 +1,3 @@
-import json
 import time
 import read_thingspeak
 import send_thingspeak
@@ -19,7 +18,7 @@ while True:
             led.on()
         else:
             led.off()
-            
+
         time.sleep(15)    
     else:
         print("No esta conectado Counterfit...")
